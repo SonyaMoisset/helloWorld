@@ -9,6 +9,6 @@
   "author": "Sonya Moisset",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^5.0.0"
   }
 }
